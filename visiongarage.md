@@ -4,4 +4,4 @@
 
 ## Architecture
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![Architecture](https://github.com/balakreshnan/visiongaragedoor/blob/main/images/garagevision.jpg "San Juan Mountains")
