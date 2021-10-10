@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-10T15:56:28.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="5DxjW_hxqHAkDI5rnGmc" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-10T15:58:06.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="P29AC-k5Y6z1Ot-uH9mf" version="14.9.6" type="github">
   <diagram id="MtCcifqgWsF8bFSLHfkf" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -48,6 +48,14 @@
         <mxCell id="wkmmpEoK6P4Irs7ONP1U-8" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_IoT_Hub.svg;" vertex="1" parent="1">
           <mxGeometry x="270" y="242" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="wkmmpEoK6P4Irs7ONP1U-25" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wkmmpEoK6P4Irs7ONP1U-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="178" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wkmmpEoK6P4Irs7ONP1U-9" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Functions.svg;" vertex="1" parent="1">
           <mxGeometry x="400" y="160" width="40" height="36.8" as="geometry" />
         </mxCell>
@@ -93,6 +101,12 @@
         </mxCell>
         <mxCell id="wkmmpEoK6P4Irs7ONP1U-23" value="Camera" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="290" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wkmmpEoK6P4Irs7ONP1U-26" value="Logic App" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="506.5" y="136.9" width="62.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wkmmpEoK6P4Irs7ONP1U-27" value="Function" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="136.9" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
